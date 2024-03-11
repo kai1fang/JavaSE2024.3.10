@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java运算符基本规则/ArithmeticOperator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java运算符基本规则/BinaryTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java运算符基本规则/BitOperator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java运算符基本规则/Input" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java运算符基本规则/LogicOperator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java运算符基本规则/RelationalOperator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java运算符基本规则/TernaryOperator" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="d3e93b10-b2b7-440d-abfd-1cf5951e9664" />
+  </component>
+</module>
